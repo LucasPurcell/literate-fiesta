@@ -13,5 +13,8 @@ You can visit the actual website www.lucaspurcell.com
 - Most common links
   - sharepoint
 - Sticky note 
+- Metal round standard sizes
+- Stheet metal gauges
+- Other standard things
 
 ### _Other..._
